@@ -408,7 +408,7 @@ Used when a format string terminates before the end of a conversion specifier.
 ###  (E1302): *Mixing named and unnamed conversion specifiers in format string*
 Used when a format string contains both named (e.g. '%(foo)d') and unnamed
 (e.g. '%d') conversion specifiers. This is also used when a named conversion
-specifier contains generate.bash generate2.bash messages.md for the minimum field width and/or precision.
+specifier contains generate.bash messages.md for the minimum field width and/or precision.
 ## format-needs-mapping
 ###  (E1303): *Expected mapping for format string, not %s*
 Used when a format string that uses named conversion specifiers is used with
